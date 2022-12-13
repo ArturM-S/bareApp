@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "bareApp",
+    "slug": "bareApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "70b1e9fb-74eb-4a87-b51a-00343997681c"
+      }
+    }
+  }
+}
